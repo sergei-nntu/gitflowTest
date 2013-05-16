@@ -1,1 +1,3 @@
 File Added in scope of feature 1
+
+Fix in scope of release 1.0
